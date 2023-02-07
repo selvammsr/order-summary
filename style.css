@@ -1,0 +1,93 @@
+body{
+  font-family: 'Red Hat Display', sans-serif;
+    background-color: lightsteelblue;
+}
+
+.summary{
+  background-color: hsl(225, 100%, 98%);
+  width: 22rem ;
+  height: 35rem;
+  border-radius: 12px;
+  flex-direction: column;
+  display: flex;
+  margin-top:60px;
+  align-items: center;
+  margin: auto;
+  margin-top: 200px;
+}
+.summary img{
+  max-width: 100%;
+  height: auto;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+}
+.none{
+  text-align: center;
+  
+  font-size: 30px;
+  font-weight: 900;
+}
+.done{
+  color: hsl(224, 23%, 55%);
+  font-size: 16px;
+  text-align: center;
+  font-weight: 700;
+
+}
+.icon{
+  width: 50px;
+  height: 50px;
+  margin: 15px 18px;
+}
+.three{
+  width: 100%;
+  height: 70px;
+background-color: hsl(225, 100%, 94%);
+border-radius: 12px;
+
+}
+.img{
+  width: 20%;
+height: 70px;
+float: left;
+}
+.title{
+  width: 50%;
+  height: 70px;
+  float: left;
+}
+.change{
+  padding: 11px 25px;
+  font-size: 21px;
+}
+.title1{
+  width: 100%;
+  height: 35px;
+  padding: 3px 30px;
+  font-size: 21px;
+}
+.title2{
+   width: 100%;
+  height: 35px;
+  padding: 3px 30px;
+  font-size: 21px;
+}
+
+.book{
+  width: 50%;
+  height: 40px;
+  color:white;
+  background-color: blue;
+  border: solid 10px blue;
+  border-radius: 12px;
+  font-weight: 500;
+  box-shadow: 5px 2px 10px rgb(56,41,224,0,219);
+}
+.anu{
+  line-height: 50px;
+  text-decoration: none;
+  color: hsl(224, 23%, 55%);
+}
